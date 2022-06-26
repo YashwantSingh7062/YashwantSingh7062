@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YashwantSingh7062
-- 👀 I’m interested in writing code in web|App techs.
+- 👀 I’m interested in writing code in web|App tech's.
 - 🌱 I’m currently learning and working on react and golang.
 - 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me - mailto:yashwantsingh7062@gmail.com | yashwantsingh.me.
